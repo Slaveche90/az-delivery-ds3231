@@ -33,7 +33,7 @@ except KeyboardInterrupt:
         print('\nScript end!')
 
 # Output in the following format:
-# System time: 2020-03-15 15:44:16
+# System time: 2020-03-15 15:44:15
 # RTC date: Sunday 15.03.2020
 # RTC time: 15:44:15
 # RTC date_time: Sunday 15-03-2020 15:44:15
